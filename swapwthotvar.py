@@ -8,3 +8,4 @@ b = a - b
 a = a - b
 
 print(f"After swapping: a = {a}, b = {b}")
+print("After swapping: a = {a} and b = {b}",formate(a,b))
